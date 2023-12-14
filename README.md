@@ -7,7 +7,15 @@ Working Groups are regular meetings of people who are collectively working in sp
 
 ## Find a Working Group
 
-- [Implementers](https://github.com/ipfs/ipfs-working-groups/blob/8f20b9a36dbd62722c526c36c1de66c1f2f8e6c7/working-groups/implementers-wg.md)
+- [IPFS Implementers](https://github.com/ipfs/ipfs-working-groups/blob/8f20b9a36dbd62722c526c36c1de66c1f2f8e6c7/working-groups/implementers-wg.md)
+- libp2p Implementers
+- IPLD
+- Ecosystem
+- WNFS
+- IPVM
+- Content Routing
+- Network Measurements
+- dApps
 - [Communications](https://github.com/ipfs/ipfs-working-groups/blob/8f20b9a36dbd62722c526c36c1de66c1f2f8e6c7/working-groups/communications-wg.md)
 
 ## Contributing
