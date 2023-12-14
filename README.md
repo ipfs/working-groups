@@ -9,10 +9,6 @@ Working Groups are regular meetings of people who are collectively working in sp
 
 Links to individual working groups and their information go here
 
-## Lead Maintainer
-
-[Dame](https://github.com/damedoteth)
-
 ## Contributing
 
 Contributions are welcome! This repository is part of the IPFS project and therefore governed by our [contributing guidelines](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md).
