@@ -3,7 +3,7 @@ IPFS Working Groups
 
 > Get connected with one of the many working groups that advance IPFS.
 
-Working Groups are regular meetings of people who are collectively working in specific arenas to advance IPFS. Anyone is welcome to join a Working Group and participate so long as they adhere to the [IPFS Community Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md). Browse through the various Working Groups listed below to find one that excites you. We hope you'll join us!
+Working Groups are regular meetings of people who are collectively working in specific arenas to advance IPFS. Anyone is welcome to join a Working Group and participate so long as they adhere to the [IPFS Community Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md). Browse through the various Working Groups listed below to find one that excites you.
 
 ## Find a Working Group
 
