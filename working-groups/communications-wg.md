@@ -1,3 +1,0 @@
-# IPFS Communications Working Group
-
-Coming soon...
