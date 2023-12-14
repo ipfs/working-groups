@@ -1,7 +1,7 @@
-Repository Name
+IPFS Working Groups
 =======================
 
-> Repository tagline
+> Get connected with one of the many working groups that advance IPFS.
 
 A longer repository description.
 
