@@ -36,8 +36,12 @@ Working Groups are regular meetings of people who are collectively working in sp
 - `ipld` Community Calls
   - ipld tooling and best practices, schema coordination, multiformats registry governance and IETF hardening
   - { meetings on a sporadic/as-needed basis | [notes](https://github.com/ipld/team-mgmt/tree/master/meeting-notes) | convened by @vmx }
-- IPVM { TBD }
-- WNFS { TBD }
+- IPVM
+  - a specification for bringing content-addressed execution to content-addressed data on IPFS. To this end, the IPVM spec aims to be the easiest, fastest, most secure, and open way to run decentralized compute jobs everywhere.
+  - See https://github.com/ipvm-wg for discussions and monthly community calls
+- WNFS
+  - a distributed file system
+  - See https://github.com/wnfs-wg for discussions and monthly community calls
 
 
 ## Contributing
