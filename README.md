@@ -18,16 +18,15 @@ Working Groups are regular meetings of people who are collectively working in sp
 - Network Measurements 
   - Network Measurements of decentralized protocols, including but not limited to IPFS, libp2p, etc.
   - { [periodic office hours](https://lu.ma/ipfs-network-measurements) | convened by @yiannisbot & [ProbeLab](https://github.com/plprobelab) }
-- IPFS Ecosystem 
-  - tracking awesome ipfs development "in the wild" and operating the comms switchboard
-  - { internal working group; community calls TBD | convened by @damedoteth }
-- IPFS dApps WG 
+- IPFS dApps
   - community calls discussing how dapps can use or be entirely hosted on IPFS today and in the future 
   - { [biweekly meetings](https://lu.ma/ipfs-dapps) | [notes](​https://github.com/ipfs/dapps-wg/) | [telegram group](https://t.me/ipfsdapps) | convened by @adin, @lidel, et al. }
 - Decentralized Data Compliance
   - tracking compliance issues across content-addressed data systems generally; federated/distributed content management; [nopfs](https://github.com/ipfs-shipyard/nopfs) feedback and best practices
   - { meetings on a topical/sporadic basis | convened by @bumblefudge }
-- Communications { TBD }
+- Communications
+  - collaborate on and oversee IPFS communication channels (email, social media, blog, website, forums, chat) and the content which is disseminated through them
+  - { internal working group; community calls TBD | convened by @damedoteth }
 
 ## IPFS Adjacent Working Groups
 - `libp2p` Implementers
