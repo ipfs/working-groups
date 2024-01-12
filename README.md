@@ -26,7 +26,7 @@ Working Groups are regular meetings of people who are collectively working in sp
   - { meetings on a topical/sporadic basis | convened by @bumblefudge }
 - Communications
   - collaborate on and oversee IPFS communication channels (email, social media, blog, website, forums, chat) and the content which is disseminated through them
-  - { internal working group; community calls TBD | convened by @damedoteth }
+  - { internal working group; community calls TBA | [notes](https://docs.google.com/document/d/1zgFdCefZ4bcgIBx0mpyIhTEBhjbGru8ioggBF8YGSbc/edit) | convened by @damedoteth }
 
 ## IPFS Adjacent Working Groups
 - `libp2p` Implementers
