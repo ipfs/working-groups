@@ -29,7 +29,10 @@ Working Groups are regular meetings of people who are collectively working in sp
   - { internal working group; community calls TBA | [notes](https://docs.google.com/document/d/1zgFdCefZ4bcgIBx0mpyIhTEBhjbGru8ioggBF8YGSbc/edit) | convened by @damedoteth }
 - Helia
   - ​Helia is an implementation of IPFS in JavaScript. The Helia WG consists of engineers interested in working on Helia and making it great while also encouraging existing projects and teams to migrate away from js-ipfs.
-  - { [weekly meetings](https://lu.ma/helia-wg) | [notes](https://pl-strflt.notion.site/Helia-Working-Group-WG-70bbeced695249808940bf7a37992f71) | convened by SgtPooki, Daniel N & achingbrain | 
+  - { [weekly meetings](https://lu.ma/helia-wg) | [notes](https://pl-strflt.notion.site/Helia-Working-Group-WG-70bbeced695249808940bf7a37992f71) | convened by SgtPooki, Daniel N & achingbrain }
+- Ignite
+  - ​Fireside Chat Style Discussion on progress made on tools built, used and UX ergonomics.
+  - { [monthly meetings](https://lu.ma/ignite) | convened by Nishant Arora & SgtPooki }
 
 ## IPFS Adjacent Working Groups
 - `libp2p` Implementers
